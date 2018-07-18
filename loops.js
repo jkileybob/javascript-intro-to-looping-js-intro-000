@@ -9,3 +9,9 @@ function forLoop(array){
   }
   return array
 }
+
+let countdown = 5;
+ 
+while (countdown > 0) {
+  console.log(--countdown)
+}
